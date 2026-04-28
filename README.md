@@ -63,7 +63,7 @@ Time Complexity:
 
 Program output example:
 
-![Output](docs/screenshots/output.png)
+![Output](output.png)
 
 ---
 
